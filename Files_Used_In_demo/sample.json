@@ -1,0 +1,82 @@
+[
+   {
+      "id":0,
+      "firstName":"Thelma",
+      "lastName":"Harper",
+      "phoneNo":"(938) 578-2131",
+      "age":32,
+      "address":"Rugby Road Tennessee Martinez"
+   },
+   {
+      "id":1,
+      "firstName":"Samantha",
+      "lastName":"Hurley",
+      "phoneNo":"(821) 521-2698",
+      "age":20,
+      "address":"Hendrickson Street New Hampshire Clarktown"
+   },
+   {
+      "id":2,
+      "firstName":"Renee",
+      "lastName":"Beard",
+      "phoneNo":"(933) 424-3829",
+      "age":37,
+      "address":"Irving Place American Samoa Allamuchy"
+   },
+   {
+      "id":3,
+      "firstName":"Delores",
+      "lastName":"Shannon",
+      "phoneNo":"(899) 512-3484",
+      "age":22,
+      "address":"Wythe Place Indiana Konterra"
+   },
+   {
+      "id":4,
+      "firstName":"Lucas",
+      "lastName":"Nguyen",
+      "phoneNo":"(871) 432-3844",
+      "age":35,
+      "address":"Brighton Avenue Guam Thatcher"
+   },
+   {
+      "id":5,
+      "firstName":"Simmons",
+      "lastName":"Burns",
+      "phoneNo":"(891) 600-3696",
+      "age":27,
+      "address":"Hanover Place Utah Rockbridge"
+   },
+   {
+      "id":6,
+      "firstName":"Norris",
+      "lastName":"Simpson",
+      "phoneNo":"(905) 517-2069",
+      "age":40,
+      "address":"Dahlgreen Place Pennsylvania Brecon"
+   },
+   {
+      "id":7,
+      "firstName":"Sullivan",
+      "lastName":"Gibbs",
+      "phoneNo":"(830) 488-3904",
+      "age":26,
+      "address":"Sumpter Street Washington Trail"
+   },
+   {
+      "id":8,
+      "firstName":"Benton",
+      "lastName":"Koch",
+      "phoneNo":"(920) 527-3027",
+      "age":38,
+      "address":"Dwight Street California Vale"
+   },
+   {
+      "id":9,
+      "firstName":"White",
+      "lastName":"Ruiz",
+      "phoneNo":"(946) 411-3530",
+      "age":21,
+      "address":"Murdock Court Puerto Rico Seymour"
+   }
+]
