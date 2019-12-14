@@ -3,7 +3,8 @@
 #Steps
 
 #Step-1: Start Localstack server using below command
-docker run -it -p 4567-4597:4567-4597 -p 8080:8080 --env LAMBDA_EXECUTOR=docker --env DOCKER_HOST=unix:///var/run/docker.sock -v /var/run/docker.sock:/var/run/docker.sock localstack/localstack
+
+`docker run -it -p 4567-4597:4567-4597 -p 8080:8080 --env LAMBDA_EXECUTOR=docker --env DOCKER_HOST=unix:///var/run/docker.sock -v /var/run/docker.sock:/var/run/docker.sock localstack/localstack`
 
 #Step-2: Open a new terminal and create s3 bucket
 aws s3 mb s3://personbucket --endpoint-url http://localhost:4572 --region us-east-1
