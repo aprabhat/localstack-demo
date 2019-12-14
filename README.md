@@ -34,8 +34,12 @@
 
 `aws lambda delete-function --function-name samplelambda --endpoint-url=http://localhost:4574`
 
-##Note: Make sure the entry of above created bucket
+**##Note: Make sure the entry of above created bucket**
+
 127.0.0.1 {{bucketname}}.localhost
+
 is placed in hosts file present in below location,
+
 C:\Windows\System32\drivers\etc\ for Windows
+
 /etc/hosts for Linux
